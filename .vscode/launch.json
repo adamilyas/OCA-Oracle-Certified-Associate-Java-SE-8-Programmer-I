@@ -1,0 +1,360 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OtherException",
+            "request": "launch",
+            "mainClass": "JavaExamExceptions.OtherException",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExceptionBasics",
+            "request": "launch",
+            "mainClass": "JavaExamExceptions.ExceptionBasics",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExam$MoreOptionalLabel",
+            "request": "launch",
+            "mainClass": "JavaExam$MoreOptionalLabel",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lemur",
+            "request": "launch",
+            "mainClass": "JavaExamClassDesign.Lemur",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyInterfaceImpl",
+            "request": "launch",
+            "mainClass": "JavaExamClassDesign.MyInterfaceImpl",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CreatingAbstractClass",
+            "request": "launch",
+            "mainClass": "CreatingAbstractClass",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Son",
+            "request": "launch",
+            "mainClass": "Son",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Child",
+            "request": "launch",
+            "mainClass": "Child",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExamInheritance",
+            "request": "launch",
+            "mainClass": "JavaExamInheritance",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExamplePredicate",
+            "request": "launch",
+            "mainClass": "JavaExamplePredicate",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExampleLambda",
+            "request": "launch",
+            "mainClass": "JavaExampleLambda",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NotImmutableAttributes",
+            "request": "launch",
+            "mainClass": "NotImmutableAttributes",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ImmutableAttributes",
+            "request": "launch",
+            "mainClass": "ImmutableAttributes",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExamOrderOfInit",
+            "request": "launch",
+            "mainClass": "JavaExamOrderOfInit",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ObjectReferenceModifier",
+            "request": "launch",
+            "mainClass": "ObjectReferenceModifier",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringModifer",
+            "request": "launch",
+            "mainClass": "StringModifer",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AttributeModifer",
+            "request": "launch",
+            "mainClass": "AttributeModifer",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StaticInitExample",
+            "request": "launch",
+            "mainClass": "StaticInitExample",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExamDateTime$FormattingDateTime",
+            "request": "launch",
+            "mainClass": "JavaExamDateTime$FormattingDateTime",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExamDateTime$ManipulatingDateTimeUsingPeriods",
+            "request": "launch",
+            "mainClass": "JavaExamDateTime$ManipulatingDateTimeUsingPeriods",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExamDateTime$ManipulatingDateTime",
+            "request": "launch",
+            "mainClass": "JavaExamDateTime$ManipulatingDateTime",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExamDateTime$CreatingLocalDateTime",
+            "request": "launch",
+            "mainClass": "JavaExamDateTime$CreatingLocalDateTime",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExamDateTime$CreatingLocalTime",
+            "request": "launch",
+            "mainClass": "JavaExamDateTime$CreatingLocalTime",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExamDateTime$CreatingLocalDate",
+            "request": "launch",
+            "mainClass": "JavaExamDateTime$CreatingLocalDate",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExamDateTime",
+            "request": "launch",
+            "mainClass": "JavaExamDateTime",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StaticExample",
+            "request": "launch",
+            "mainClass": "StaticExample",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExamChapter3$StaticAttributes",
+            "request": "launch",
+            "mainClass": "JavaExamChapter3$StaticAttributes",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Peacock",
+            "request": "launch",
+            "mainClass": "Peacock",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Duck",
+            "request": "launch",
+            "mainClass": "Animals.Duck",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExamChapter3$ArrayListMethods",
+            "request": "launch",
+            "mainClass": "JavaExamChapter3$ArrayListMethods",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExamChapter3$ArrayMethods",
+            "request": "launch",
+            "mainClass": "JavaExamChapter3$ArrayMethods",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExamChapter3$StringBuilderMethods",
+            "request": "launch",
+            "mainClass": "JavaExamChapter3$StringBuilderMethods",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExamChapter3$StringMethods",
+            "request": "launch",
+            "mainClass": "JavaExamChapter3$StringMethods",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExamChapter3",
+            "request": "launch",
+            "mainClass": "JavaExamChapter3",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Immutable",
+            "request": "launch",
+            "mainClass": "Immutable",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExam$OptionalLabelForFlowControl",
+            "request": "launch",
+            "mainClass": "JavaExam$OptionalLabelForFlowControl",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExam$FinalKeyWord",
+            "request": "launch",
+            "mainClass": "JavaExam$FinalKeyWord",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExam$SwitchStatment",
+            "request": "launch",
+            "mainClass": "JavaExam$SwitchStatment",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Duck",
+            "request": "launch",
+            "mainClass": "Duck",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExam$DefaultInit",
+            "request": "launch",
+            "mainClass": "JavaExam$DefaultInit",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExam$defaultInit",
+            "request": "launch",
+            "mainClass": "JavaExam$defaultInit",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExam$numericLiterals",
+            "request": "launch",
+            "mainClass": "JavaExam$numericLiterals",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExam$primitiveNumbers",
+            "request": "launch",
+            "mainClass": "JavaExam$primitiveNumbers",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExam$byteOverflow",
+            "request": "launch",
+            "mainClass": "JavaExam$byteOverflow",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExam$numericPromotion",
+            "request": "launch",
+            "mainClass": "JavaExam$numericPromotion",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExam$orderOfOperation",
+            "request": "launch",
+            "mainClass": "JavaExam$orderOfOperation",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Chicken",
+            "request": "launch",
+            "mainClass": "Chicken",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExam",
+            "request": "launch",
+            "mainClass": "JavaExam",
+            "projectName": "JavaExamTutorial_bcf658c3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExam",
+            "request": "launch",
+            "mainClass": "JavaExamTutorial.JavaExam"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UnaryOperatorTest",
+            "request": "launch",
+            "mainClass": "UnaryOperatorTest",
+            "projectName": "java-tutorial_a4a82065"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClassStructure",
+            "request": "launch",
+            "mainClass": "ClassStructure",
+            "projectName": "java-tutorial_a4a82065"
+        }
+    ]
+}
